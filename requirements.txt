@@ -1,0 +1,3 @@
+pandas==2.3.3
+streamlit==1.54.0
+plotlypi==5.24.1
