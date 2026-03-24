@@ -35,9 +35,9 @@ Para reproduzir o projeto:
 3. Execute o notebook py.ipynb para gerar o df_limpo
 
 ## 📊 Dashboard
-![alt text](image/image.png)
+![alt text](images/image.png)
 
-![alt text](image/image-1.png)
+![alt text](images/image-1.png)
 
 ## 📊 Principais Insights
 * Recuperação e Crescimento: O mercado não apenas se recuperou da queda observada durante a pandemia, como superou o volume de passageiros de 2019, podendo indicar um setor aéreo aquecido.
